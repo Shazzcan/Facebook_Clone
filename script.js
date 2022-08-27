@@ -1,1 +1,1 @@
-const = "Shazz"
+console.log("hello")
